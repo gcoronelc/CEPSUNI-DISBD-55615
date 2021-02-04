@@ -22,8 +22,6 @@ MARCELO           TRABAJADOR     HORAS-EXTRAS    No es opcional.
 FABRICIO          EMPLEADO       PROFESION       Si no tiene, va NULL.
 -----------------------------------------------------------------------------------------
 
-
-
 PERSONA                   TIPO
 -----------------------------------------------------
 - ID                      N   ( AIP )
