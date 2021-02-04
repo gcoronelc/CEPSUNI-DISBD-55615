@@ -1,0 +1,42 @@
+﻿==========================================================================================
+ATRIBUTO MULTIVALUADO
+==========================================================================================
+
+ESTUDIANTE        ENTIDAD        ATRIBUTO     COMENTARIO
+-----------------------------------------------------------------------------------------
+ANDERSON          PROFESOR       CURSO        Curso no es un atributo del profesor.
+JAVIER ALEX       ALUMNO         TELEFONO     Teléfono celular y el de casa.
+KEVIN SALAZAR     EMPRESARIO     EMPRESA      Empresa es una entidad.
+KAROL             GENRENTE       COMPAÑIA     Compañia es una entidad.
+-----------------------------------------------------------------------------------------
+
+==========================================================================================
+ATRIBUTO OPCIONAL
+==========================================================================================
+
+ESTUDIANTE        ENTIDAD        ATRIBUTO        COMENTARIO
+-----------------------------------------------------------------------------------------
+DIANA             ESTUDIANTE     CODIGO          No es opcional.
+ESCARLEY          PRACTICANTE    DISCAPACIDAD    Si no tiene, va NULL.
+MARCELO           TRABAJADOR     HORAS-EXTRAS    No es opcional.
+FABRICIO          EMPLEADO       PROFESION       Si no tiene, va NULL.
+-----------------------------------------------------------------------------------------
+
+
+
+PERSONA                   TIPO
+-----------------------------------------------------
+- ID                      N   ( AIP )
+- DNI                     T 
+- TELEFONO                T
+- CORREO                  T 
+- NOMBRE                  T
+- APELLIDO
+- DIRECCION
+- FECHA NACIMIENTO
+- ESTADO CIVIL
+- SEXO
+- 
+
+
+
