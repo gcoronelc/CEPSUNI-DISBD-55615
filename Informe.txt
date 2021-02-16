@@ -20,5 +20,5 @@ Clase 3 05.FEB.21: Lab1
 Clase 4 10.FEB.21: 
 Clase 5 12.FEB.21: Lab 2
 Clase 6 15.FEB.21: Lab 3
-Clase 7 17.FEB.21: Lab 4
-Clase 8 19.FEB.21: Examen Final
+Clase 7 17.FEB.21: 
+Clase 8 19.FEB.21: Lab 4, Examen Final
